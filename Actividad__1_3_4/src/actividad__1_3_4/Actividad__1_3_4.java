@@ -68,7 +68,6 @@ class GestionContenido extends DefaultHandler {
         car = car.replaceAll("[\t\n]", ""); // quitar saltos de linea
         System.out.println("\tcaracteres: " + car);
     }
-
 }
 
 
